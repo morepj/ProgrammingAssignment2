@@ -54,3 +54,4 @@ cacheSolve <- function(x, ...) {
 #a$getMatInv()
 #b %*% a$getMat()
 #a$getMatInv()
+#cacheSolve(a)
